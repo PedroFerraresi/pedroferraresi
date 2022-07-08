@@ -42,7 +42,7 @@ I love to teach, play video games and learn new things!
 </div>
 
  
-<h2><a target="_blank" href="https://google.com.br">Portfolio Projects</a></h2>
+<h2><a target="_blank" href="#">Portfolio Projects</a></h2>
 
   * [House Sales Data Analysis](#)
   * [Rossmann Store Sales](#)
