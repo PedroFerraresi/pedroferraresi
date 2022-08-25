@@ -42,9 +42,9 @@ I love to teach, play video games and learn new things!
 </div>
 
  
-<h2><a target="_blank" href="#">Portfolio Projects</a></h2>
+<h2><a target="_blank" href="https://pedroferraresi.github.io/portfolio_projetos/">Portfolio Projects</a></h2>
 
-  * [House Sales Data Analysis](#)
+  * [House Sales Data Analysis](https://github.com/PedroFerraresi/houserocket)
   * [Rossmann Store Sales](#)
 <!--   * [Census Income Dataset](https://github.com/provezano/census-income-dataset) -->
 <!--   * [Stroke Prediction](https://github.com/provezano/stroke-prediction) -->
