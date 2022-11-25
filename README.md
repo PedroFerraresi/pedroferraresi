@@ -46,6 +46,7 @@ I love to teach, play video games and learn new things!
 
   * [House Sales Data Analysis](https://github.com/PedroFerraresi/houserocket)
   * [Rossmann Store Sales](https://github.com/PedroFerraresi/rossmann_sales)
+  * [Churn Prediction](https://github.com/PedroFerraresi/churn_prediction)
 <!--   * [Census Income Dataset](https://github.com/provezano/census-income-dataset) -->
 <!--   * [Stroke Prediction](https://github.com/provezano/stroke-prediction) -->
 <!--   * [Churn Prediction](https://github.com/provezano/telco-customer-churn) -->
